@@ -11,7 +11,7 @@ Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses
 
 ### Paper 
 [Hsin-Ying Lee](http://vllab.ucmerced.edu/hylee/), [Xiaodong Yang](https://xiaodongyang.org/), [Ming-Yu Liu](http://mingyuliu.net/), [Ting-Chun Wang](https://tcwang0509.github.io/), [Yu-Ding Lu](https://jonlu0602.github.io/), [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/), and [Jan Kautz](http://jankautz.com/)  
-[Dancing to Music]()  
+[Dancing to Music](https://arxiv.org/abs/1911.02001)  
 In Neural Information Processing Systems (**NeurIPS**) 2019
 
 ### Results Video
@@ -52,5 +52,5 @@ If you find this code useful for your research, please cite our paper:
 }
 ```
 
-### Code Coming Soon
+### Code and Data Coming Soon
 
